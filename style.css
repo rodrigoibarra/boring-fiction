@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Cutive Mono', monospace;
+  margin: 2em;
+  background-color:#211f1e;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: 'Dosis', sans-serif;
+  font-size:8.5em;
+  text-transform:uppercase;
+  letter-spacing: .75em;
+  text-align:center
+}
+.fix{
+  text-shadow:0px 0px 10px #49BED7,
+	0px 0px 20px #49BED7,
+	0px 0px 30px #49BED7,
+	0px 0px 40px #49BED7,
+	0px 0px 50px #49BED7;
+	color: #FFFFF;
+}
+
+p{
+  text-align:center;
+}
